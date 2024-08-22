@@ -324,3 +324,7 @@ footer {
 .social-media span:hover {
     color: #00cc44;
 }
+
+.video{
+    width: 100%;
+}
