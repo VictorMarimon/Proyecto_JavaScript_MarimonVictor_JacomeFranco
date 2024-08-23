@@ -69,6 +69,11 @@ nav {
     color: #000;
 }
 
+.video .gif{
+    width: 100vw;
+    padding-top: 1px;
+}
+
 .hero-content {
     text-align: center;
     padding: 0 20px;
@@ -142,6 +147,7 @@ nav {
 .highlights h2 {
     font-size: 32px;
     margin-bottom: 40px;
+    margin-top: 20vw;
 }
 
 .cards-grid {
@@ -207,6 +213,10 @@ nav {
     gap: 10px;
 }
 
+span a{
+    color:white;
+    text-decoration: none;
+}
 .category {
     background-color: #222;
     color: #fff;
@@ -325,6 +335,4 @@ footer {
     color: #00cc44;
 }
 
-.video{
-    width: 100%;
-}
+
